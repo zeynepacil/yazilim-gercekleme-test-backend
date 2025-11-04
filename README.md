@@ -1,24 +1,19 @@
-# README
+# Yazılım Gerçekleşme ve Test Dersi - BDD Ödevi
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bu proje, "Yazılım Gerçekleşme ve Test" dersi kapsamında BDD (Davranış Odaklı Geliştirme) prensiplerini uygulamak için geliştirilmiştir.
 
-Things you may want to cover:
+Proje, bir Ruby on Rails API (Backend) ve bir Next.js (Frontend) uygulamasından oluşmaktadır.
 
-* Ruby version
+## Kullanılan Döngü: Red-Green-Refactor
 
-* System dependencies
+Bu haftaki senaryo (`blog.feature`), BDD'nin "Red-Green" döngüsü kullanılarak geliştirilmiştir:
+1.  **RED:** Önce özellik için test yazıldı ve testin başarısız olduğu (`%100 FAIL`) görüldü.
+2.  **GREEN:** Testin geçmesini sağlayacak Next.js kodu yazıldı ve testin başarılı olduğu (`%100 SUCCESS`) görüldü.
 
-* Configuration
+## Etik Bildirimi
 
-* Database creation
+Bu proje, Samsun Üniversitesi Yazılım Mühendisliği Bölümü "Yazılım Gerçekleşme ve Test" dersi kapsamında **Nurettin Şenyer** ve **Ömer Durmuş**'un rehberliğinde yapılmıştır.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+---
+**Backend API Deposu:** [Buraya backend deponun linkini yapıştır]
+**Demo Videosu (YouTube):** [Buraya YouTube video linkini yapıştır]
