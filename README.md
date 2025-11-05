@@ -1,19 +1,22 @@
-# Yazılım Gerçekleşme ve Test Dersi - BDD Ödevi
+# Yazılım Gerçekleşme ve Test Dersi - BDD Ödevi (Backend API)
 
-Bu proje, "Yazılım Gerçekleşme ve Test" dersi kapsamında BDD (Davranış Odaklı Geliştirme) prensiplerini uygulamak için geliştirilmiştir.
+Bu proje, "Yazılım Gerçekleşme ve Test" dersi BDD ödevi için geliştirilen **Ruby on Rails API (Backend)** sunucusudur.
 
-Proje, bir Ruby on Rails API (Backend) ve bir Next.js (Frontend) uygulamasından oluşmaktadır.
+Bu sunucu, `http://localhost:3001/api/v1/posts` adresi üzerinden Next.js (Frontend) uygulamasına blog yazılarını JSON formatında sağlar.
 
-## Kullanılan Döngü: Red-Green-Refactor
+## Teknolojiler
+* Ruby on Rails 8+
+* Puma
+* SQLite3
+* Rack Cors (Frontend ile bağlantı için)
 
-Bu haftaki senaryo (`blog.feature`), BDD'nin "Red-Green" döngüsü kullanılarak geliştirilmiştir:
-1.  **RED:** Önce özellik için test yazıldı ve testin başarısız olduğu (`%100 FAIL`) görüldü.
-2.  **GREEN:** Testin geçmesini sağlayacak Next.js kodu yazıldı ve testin başarılı olduğu (`%100 SUCCESS`) görüldü.
-
-## Etik Bildirimi
+## Etik Bildirimi (Zorunlu)
 
 Bu proje, Samsun Üniversitesi Yazılım Mühendisliği Bölümü "Yazılım Gerçekleşme ve Test" dersi kapsamında **Nurettin Şenyer** ve **Ömer Durmuş**'un rehberliğinde yapılmıştır.
 
 ---
-**Frontend API Deposu:** [Buraya backend deponun linkini yapıştır]
-**Demo Videosu (YouTube):** [Buraya YouTube video linkini yapıştır]
+
+### Proje Linkleri
+
+* **Frontend (Next.js) Deposu: https://github.com/zeynepacil/yazilim-gercekleme-test-frontend.git
+* **Demo Videosu (YouTube):** [Buraya YouTube video linkini yapıştır]
