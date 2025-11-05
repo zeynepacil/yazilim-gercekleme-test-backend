@@ -15,5 +15,5 @@ Bu haftaki senaryo (`blog.feature`), BDD'nin "Red-Green" döngüsü kullanılara
 Bu proje, Samsun Üniversitesi Yazılım Mühendisliği Bölümü "Yazılım Gerçekleşme ve Test" dersi kapsamında **Nurettin Şenyer** ve **Ömer Durmuş**'un rehberliğinde yapılmıştır.
 
 ---
-**Backend API Deposu:** [Buraya backend deponun linkini yapıştır]
+**Frontend API Deposu:** [Buraya backend deponun linkini yapıştır]
 **Demo Videosu (YouTube):** [Buraya YouTube video linkini yapıştır]
