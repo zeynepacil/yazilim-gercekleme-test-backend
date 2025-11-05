@@ -19,4 +19,4 @@ Bu proje, Samsun Üniversitesi Yazılım Mühendisliği Bölümü "Yazılım Ger
 ### Proje Linkleri
 
 * **Frontend (Next.js) Deposu: https://github.com/zeynepacil/yazilim-gercekleme-test-frontend.git
-* **Demo Videosu (YouTube):** [Buraya YouTube video linkini yapıştır]
+* **Demo Videosu (YouTube):** https://youtu.be/bpYT5_aUErQ
