@@ -8,6 +8,8 @@ Rails.application.routes.draw do
       # Post modelinin CRUD operasyonlarını JSON formatında sunar
       resources :posts, only: [:index, :show] 
       # Diğer modeller için de rota eklenebilir.
+      resources :shifts, only: [:index] # Vardiyaları listelemek için
+      resources :schedules, only: [:index, :create] # Çizelgeyi listelemek ve yeni çizelge eklemek için
     end
   end
 end
